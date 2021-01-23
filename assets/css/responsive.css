@@ -1,0 +1,251 @@
+@media only screen and (max-width: 1600px) and (min-width: 1200px){
+.box-105 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.main-menu ul li {
+    margin-right: 20px;
+}
+
+.slider-content h2 {
+    font-size: 70px;
+  }
+
+  .slider-content{
+      padding-left: 50px;  }
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1500px) and (max-width: 1700px) {
+
+    
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+}
+    
+    
+    /* Normal desktop :992px. */
+    @media (min-width: 992px) and (max-width: 1199px) {
+        .box-105{
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+
+        .slider-bg-text h2 {
+            font-size: 300px;
+        }
+
+        .main-menu ul li {
+            margin-right: 20px;
+        }
+        
+        .main-menu {
+            margin-left: 80px;
+        }
+        
+        .slider-content {
+            padding-left: 50px;
+        }
+        
+        .slider-content h2 {
+            font-size: 70px;
+        }
+
+        .about-wrapper {
+            margin-top: 50px;
+        }
+
+        .contact__map-wrapper {
+            margin-top: 0;
+            padding-left: 20px;
+        }
+
+        .footer__top .award__slider-active {
+            padding: 35px 40px;
+        }
+    
+    }
+    
+    
+    /* Tablet desktop :768px. */
+    @media (min-width: 768px) and (max-width: 991px) {
+        .transparent-header {
+            padding: 22px 0;
+        }
+        
+        .info__area-wrapper{
+            display: none;
+        }
+
+        .side-mobile-menu{
+            display: block;
+        }
+
+        .slider-bg-text h2 {
+            font-size: 300px;
+        }
+
+        .slider-content {
+            padding-left: 50px;
+        }
+        
+        .slider-height {
+            height: 950px;
+        }
+        
+        .slider-content h2 {
+            font-size: 70px;
+        }
+        
+        .features__item {
+            padding: 44px 25px;
+        }
+        
+        .box-105 {
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+        
+        .about-wrapper {
+            margin-top: 50px;
+        }
+
+        .contact__map-wrapper {
+            display: none;
+        }
+
+        .award__slider-active {
+            padding: 35px 14px;
+        }
+    
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+
+        .contact__map-wrapper {
+            display: none;
+        }
+
+        .info__area-wrapper{
+            display: none;
+        }
+
+        .side-mobile-menu{
+            display: block;
+        }
+
+        .box-105 {
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+
+        .slider-content h2{
+            font-size: 70px;
+        }
+        .slider-content{
+            padding-left: 35px;        
+        }
+
+        .slider-height{
+            height: 850px;
+        }
+
+        .testimonial__slider .owl-nav {
+            display: none;
+        }
+
+        .footer__top .award__slider-active {
+            padding: 35px 14px;
+        }
+
+    }
+    
+    /* Small Mobile :320px. */
+    @media (max-width: 575px) {
+
+        .slider-content h2 {
+            font-size: 50px;
+        }
+        
+        .slider-height {
+            height: 750px;
+        }
+        .slider-bg-text h2 {
+            font-size: 120px;
+        }
+
+        .info__area-wrapper{
+            display: none;
+        }
+
+        .side-mobile-menu{
+            display: block;
+        }
+
+
+        .contact__map-wrapper {
+            display: none;
+        }
+
+        .aapoinment__counter-item::before,
+        .aapoinment__counter-item::after{
+            display: none;
+        }
+
+        .single-counter {
+            border: none;
+            padding-left: 20px;
+        }
+        
+        .transparent-header {
+            padding: 22px 0;
+        }
+        
+        .slider-content {
+            padding-left: 15px;
+        }
+        
+        .box-105 {
+            padding-left: 0;
+            padding-right: 0;
+        }
+        
+        .about-wrapper {
+            margin-top: 50px;
+        }
+        
+        .section__title h1 {
+            font-size: 38px;
+            line-height: 48px;
+        }
+
+        .psychologist__person img {
+            width: 100%;
+        }
+
+        .appoinment__counter {
+            padding: 70px 0;
+        }
+
+        .appoinment__counter {
+            padding: 70px 0;
+        }
+        
+        .aapoinment__counter-item {
+            padding-right: 0;
+            padding-left: 50px;
+        }
+    
+    }
+    
+    /* Large Mobile :480px. */
+    @media only screen and (min-width: 550px) and (max-width: 767px){
+    
+        .slider-bg-text h2 {
+            font-size: 185px;
+        }
+
+    }
